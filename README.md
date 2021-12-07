@@ -1,5 +1,6 @@
 <h1 align="center"> Christmas-Flow 🎄 </h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/84512521/144955715-4bc261bf-44a3-4538-9ec0-37a4f89fb544.jpg" width=500px height=250px></img></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/84512521/145085611-67d46485-7fe1-4c13-bb3b-265e2212d10d.jpg" width=500px height=500px></img></p>
+
 
 ## Tabla de contenidos:
 
@@ -11,7 +12,7 @@
 ## Descripción y contexto
 ---
 
-Se pone en práctica el uso de HTML, CSS y JavaScrip.
+Se pone en práctica el uso de HTML, CSS y JavaScript.
 
 Y se realiza un Deploy en Vercel.
 
