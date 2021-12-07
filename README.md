@@ -1,8 +1,9 @@
 <h1 align="center"> Christmas-Flow 🎄 </h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/84512521/145085611-67d46485-7fe1-4c13-bb3b-265e2212d10d.jpg" width=500px height=500px></img></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/84512521/145090543-2f162f30-fedb-4287-9525-a6a28a869e43.gif" width=600px height=400px></img></p>
 
 
 ## Tabla de contenidos:
+
 
 
 - [Descripción y contexto](#descripción-y-contexto)
