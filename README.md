@@ -11,7 +11,16 @@
 ## Descripción y contexto
 ---
 
-Se pone en práctica HTML, CSS y JavaScrip.
+Se pone en práctica el uso de HTML, CSS y JavaScrip.
+
+Y se realiza un Deploy en Vercel.
+
+
+	christmas-flow-git-main-soledadvallejos.vercel.app
+
+
+
+
 
 
 ## Autor
