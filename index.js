@@ -1,7 +1,7 @@
 //Se arma la estructura
 
 let hojas = "";
-[15, 1, 1, 2].forEach(function (a) {
+[12, 1, 1, 2].forEach(function (a) {
     Array(a).fill("").forEach(function (x, i) {
         hojas += ([...Array(1 + i).fill("<span class = 'colores'>*~*</span>")].join("")) + "<br>"
     })
